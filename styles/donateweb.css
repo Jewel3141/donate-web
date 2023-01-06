@@ -24,8 +24,8 @@
   left: 50%;
   transform: translate(-50%, -50%);
   background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+  padding: 50px;
 
-  padding: 50px 50px;
 
 }
 
